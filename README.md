@@ -1,4 +1,4 @@
-![Social](https://img.shields.io/mastodon/follow/820001.svg?domain=https%3A%2F%2Fmastodon.social&style=social)
+[![Social](https://img.shields.io/mastodon/follow/820001.svg?domain=https%3A%2F%2Fmastodon.social&style=social)](https://mastodon.social/@displac3r)
 # Docker Node MongoDB Example
 
 > Simple example of a dockerized Node/Mongo app
